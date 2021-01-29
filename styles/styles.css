@@ -1,6 +1,15 @@
 body {
-    font-family: sans-serif;
-    width: 500px;
+    width: 97%;
     margin:auto;
     background-color: #F6EEBA;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+  }
+h1 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
 }
